@@ -1,5 +1,11 @@
 # element-form-demo
 
+## 说明
+
+- 手写element-ui 表单及校验简单版
+
+- 支持校验功能
+
 ## Project setup
 ```
 npm install
